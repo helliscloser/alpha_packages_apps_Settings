@@ -34,4 +34,8 @@
         <!-- Doze enablement -->
     <string name="doze_enabled_title">Ambient display</string>
     <string name="doze_enabled_summary">Whether to enable the doze package functionality</string>
+    
+    <!-- Idle Manager -->
+    <string name="idle_manager_title">Idle Manager</string>
+    <string name="idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
 </resources>
